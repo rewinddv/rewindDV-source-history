@@ -1,3 +1,18 @@
+# Superseded: public source-history archive
+
+The active rewindDV project is [rewinddv/rewindDV](https://github.com/rewinddv/rewindDV).
+Use that repository for application and driver source, engineering releases,
+installation and compatibility documentation, issues and contributions.
+
+This repository (ID 1402605229) preserves the pre-consolidation public source
+history. Its reviewed default-branch history was merged into the surviving
+project (ID 1382559648, formerly rewindDV-LAB) without rewriting either history.
+The source below is retained as a historical snapshot; this repository is no
+longer an active development or support destination. Existing licenses and
+attribution remain applicable. No binary was rebuilt or republished by this move.
+
+---
+
 # rewindDV — Alpha 0.0.81 source snapshot
 
 > **Help fund the standards behind tape metadata.** Funds raised go toward
